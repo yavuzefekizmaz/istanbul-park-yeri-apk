@@ -2,9 +2,9 @@
   "schema": 1,
   "packageId": "com.efekizmaz.istanbulparkyeri",
   "version": "1.0.1",
-  "versionCode": 7,
-  "size": 109756907,
-  "sha256": "17e3014919e493b0e0c5de50334b40ff2d9bc347a40a638e41920c18e155603b",
-  "md5": "c3ae6b60cce535c24b220357d39fb39c",
-  "url": "https://github.com/yavuzefekizmaz/istanbul-park-yeri-apk/releases/download/android-v7/ParkYeri-v7.apk"
+  "versionCode": 8,
+  "size": 109758819,
+  "sha256": "1cbbbd5d394888e5805911f4f44cbc69c10831496c07b313dcc72b35245bf23f",
+  "md5": "303275b236ab513c16f42fd40d2ad531",
+  "url": "https://github.com/yavuzefekizmaz/istanbul-park-yeri-apk/releases/download/android-v8/ParkYeri-v8.apk"
 }
